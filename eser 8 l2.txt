@@ -1,0 +1,30 @@
+
+Ecco una riformulazione dei calcoli:
+
+Inondazione sull'asset "edificio secondario":
+La perdita annua è di 1200 €, calcolata come segue:
+Loss = 150,000 x 0.40 x (1 - (1 - (1:50)1) = 1200 €/anno
+
+Terremoto sull'asset "datacenter":
+La perdita annua è di 3166 €, calcolata come segue:
+Loss = 100,000 x 0.95 x (1 - (1 - (1:30)1) = 3166 €/anno
+
+Incendio sull'asset "edificio primario":
+La perdita annua è di 10,500 €, calcolata come segue:
+Loss = 350,000 x 0.60 x (1 - (1 - (1:20)1) = 10,500 €/anno
+
+Incendio sull'asset "edificio secondario":
+La perdita annua è di 3750 €, calcolata come segue:
+Loss = 150,000 x 0.50 x (1 - (1 - (1:20)1) = 3750 €/anno
+
+Inondazione sull'asset "edificio primario":
+La perdita annua è di 3850 €, calcolata come segue:
+Loss = 350,000 x 0.55 x (1 - (1 - (1:50)1) = 3850 €/anno
+
+Terremoto sull'asset "edificio primario":
+La perdita annua è di 9333 €, calcolata come segue:
+Loss = 350,000 x 0.80 x (1 - (1 - (1:30)1) = 9333 €/anno
+
+
+
+
